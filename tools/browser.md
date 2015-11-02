@@ -20,11 +20,7 @@
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
 * [jscc.info](http://jscc.info/)
 
-##### Browser hacks:
-
-* [browserhacks.com](http://browserhacks.com/)
-
-##### Browser development tools:
+##### Browser development/debug tools:
 
 * [Opera Dragonfly](http://www.opera.com/dragonfly/)
 * [Safari Web Inspector](https://developer.apple.com/safari/tools/)
@@ -35,6 +31,7 @@
     - [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
     - [Settings](https://developer.chrome.com/devtools/docs/settings)
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
+* [vorlon.js](http://vorlonjs.com/)
 
 ##### Synchronized browser tools:
 
@@ -51,6 +48,8 @@
 * [webshim](https://afarkas.github.io/webshim/demos/)
 * [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
 * [console-polyfill](https://github.com/paulmillr/console-polyfill)
+* [socket.io](http://socket.io/)
+* [sockjs](https://github.com/sockjs/sockjs-client)
 
 ##### Browser hosted testing/automation:
 
@@ -71,6 +70,10 @@
 * [nightwatchjs](http://nightwatchjs.org/)
 * [casperJS](http://casperjs.org/)
 * [Nightmare](https://github.com/segmentio/nightmare)
+
+##### Browser hacks:
+
+* [browserhacks.com](http://browserhacks.com/)
 
 
 

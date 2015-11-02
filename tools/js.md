@@ -46,7 +46,7 @@
 
 * [sinon.js](http://sinonjs.org/)
 
-##### Code style linter :
+##### Code style linter:
 
 * [JSCS](http://jscs.info/)
 
@@ -82,7 +82,7 @@
 
 ##### Online js code editors:
 
-* [jsbin.com](http://jsbin.com/)
+* [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
 
@@ -95,7 +95,7 @@
 
 ##### Authoring conventions:
 
-* [Node.js Style Guide](https://github.com/felixge/node-style-guide)
+* [Khan JavaScript Style Guide](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 

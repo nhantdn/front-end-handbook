@@ -8,12 +8,13 @@
 
 The ideal path, but certainly the most difficult, would be to first learn JavaScript, then the DOM, then jQuery. However, do what makes sense to your brain. Most front-end developers learn about JavaScript and then DOM by way of first learning jQuery. Whatever path you take, just make sure JavaScript, then DOM, or jQuery don't become a black box.
 
-##### General Learning:
+##### General learning:
 
 * [The Document Object Model](http://eloquentjavascript.net/13_dom.html) [read]
 * [codecademy.com jQuery](https://www.codecademy.com/tracks/jquery) [watch]
 * [jQuery Enlightenment](http://jqueryenlightenment.com/) [read]
-* [jQuery: Getting Started](http://www.pluralsight.com/courses/jquery-getting-started) [watch][$]
+* [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js) [watch]
+* [HTML/JS: Making webpages interactive with jQuery](https://www.khanacademy.org/computing/computer-programming/html-js-jquery) [watch]
 
 ##### Mastering:
 
@@ -31,7 +32,7 @@ The ideal path, but certainly the most difficult, would be to first learn JavaSc
 * [MDN Event reference](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [jQuery Docs](http://api.jquery.com/)
 * [MDN Browser Object Model](https://developer.mozilla.org/en-US/docs/Web/API/Window)
-* [msdn Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384(v=vs.85).aspx)
+* [msdn Document Object Model (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
 ##### Standards/specifications:
 
