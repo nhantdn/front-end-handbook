@@ -1,33 +1,33 @@
-# General front-end development tools
+# General Front-End Development Tools
 
-##### Development tools:
+##### Development Tools:
 
-* [screensiz.es](http://screensiz.es/)
-* [placehold.it](http://placehold.it/)
-* [codeKit](http://incident57.com/codekit/)
-* [prepros](https://prepros.io/)
 * [Browsersync](http://www.browsersync.io/)
+* [CodeKit](http://incident57.com/codekit/)
 * [ish. 2.0.](https://github.com/bradfrost/ish.)
+* [placehold.it](http://placehold.it/)
+* [Prepros](https://prepros.io/)
+* [screensiz.es](http://screensiz.es/)
 * [Wraith](http://bbc-news.github.io/wraith/index.html)
 
-##### Online code editors:
+##### Online Code Editors:
 
-* [jsbin.com](http://jsbin.com/)
-* [jsfiddle.net](http://jsfiddle.net/)
-* [liveweave.com](http://liveweave.com/)
+* [CodePen](http://codepen.io/)
 * [es6fiddle.net](http://www.es6fiddle.net/)
-* [codepen.io](http://codepen.io/)
+* [JS Bin](http://jsbin.com/)
+* [JSFiddle](http://jsfiddle.net/)
+* [Liveweave](http://liveweave.com/)
 * [Plunker](http://plnkr.co/)
 
-##### Tools for finding tools:
+##### Tools for Finding Tools:
 
-* [stackshare.io](http://stackshare.io/)
-* [javascripting.com](http://www.javascripting.com)
 * [built with](http://builtwith.com/)
+* [javascripting.com](http://www.javascripting.com)
 * [microjs.com](http://microjs.com)
-* [The Tool Box](http://thetoolbox.cc/)
-* [unheap.com](http://www.unheap.com/)
+* [stackshare.io](http://stackshare.io/)
 * [stylesheets.co](https://stylesheets.co/)
+* [The Toolbox](http://thetoolbox.cc/)
+* [Unheap](http://www.unheap.com/)
 
 
 

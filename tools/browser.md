@@ -1,77 +1,83 @@
 # Browser Tools
 
-##### JS browser utilities:
+##### JS Browser Coding Utilities:
 
-* [URI.js](http://medialize.github.io/URI.js/)
-* [platform.js](https://github.com/bestiejs/platform.js)
-* [history.js](https://github.com/browserstate/history.js)
+* [History.js](https://github.com/browserstate/history.js)
 * [html2canvas](https://github.com/niklasvh/html2canvas)
+* [Platform.js](https://github.com/bestiejs/platform.js)
+* [URI.js](http://medialize.github.io/URI.js/)
 
-##### General reference tools to determine if X browser supports X:
+##### General Reference Tools to Determine If X Browser Supports X:
 
-* [caniuse.com](http://caniuse.com/)
-* [HTML5 Please](http://html5please.com/)
-* [HTML5 test](https://html5test.com/)
-* [Browserscope](http://www.browserscope.org/)
-* [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com/)
-* [iwanttouse.com/](http://www.iwanttouse.com/)
-* [Platform status](https://dev.modern.ie/platform/status/)
-* [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
 * [Big JS-Compatibility-Table](http://compatibility.shwups-cms.ch/en/home)
+* [Browser support for broken/missing images](http://codepen.io/bartveneman/full/qzCte/)
+* [Browserscope](http://www.browserscope.org/)
+* [caniuse.com](http://caniuse.com/)
+* [Firefox Platform Status - Implementation & standardization roadmap for web platform features](https://platform-status.mozilla.org/)
+* [HTML5 Please](http://html5please.com/)
+* [HTML5 Test](https://html5test.com/)
+* [iwanttouse.com/](http://www.iwanttouse.com/)
 * [jscc.info](http://jscc.info/)
+* [Platform Status](https://dev.modern.ie/platform/status/)
+* [webbrowsercompatibility.com](http://www.webbrowsercompatibility.com/)
+* [whatwebcando.today](https://whatwebcando.today/)
 
-##### Browser development/debug tools:
+##### Browser Development/Debug Tools:
 
-* [Opera Dragonfly](http://www.opera.com/dragonfly/)
-* [Safari Web Inspector](https://developer.apple.com/safari/tools/)
-* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 * [Chrome Developer Tools (aka DevTools)](https://developers.google.com/web/tools/?hl=en)
     - [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
     - [Command Line API Reference](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
     - [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
     - [Settings](https://developer.chrome.com/devtools/docs/settings)
+* [Firefox Developer Tools](https://developer.mozilla.org/en-US/docs/Tools)
 * [IE Developer tools (aka F12 tools)](https://dev.modern.ie/platform/documentation/f12-devtools-guide/)
-* [vorlon.js](http://vorlonjs.com/)
+* [Opera Dragonfly](http://www.opera.com/dragonfly/)
+* [Safari Web Inspector](https://developer.apple.com/safari/tools/)
+* [Vorlon.js](http://vorlonjs.com/)
 
-##### Synchronized browser tools:
+##### Synchronized Browser Tools:
 
 * [Browsersync](http://www.browsersync.io/)
 
-##### Browser coding tools to determine if X browser supports X:
+##### Browser Coding Tools to Determine If X Browser Supports X:
 
-* [Modernizr](https://modernizr.com/)
 * [ES Feature Tests](https://featuretests.io/)
+* [Feature.js](http://featurejs.com/)
+* [Modernizr](https://modernizr.com/)
 
-##### Broad browser polyfills/shims:
+##### Broad Browser Polyfills/Shims:
 
+* [console-polyfill](https://github.com/paulmillr/console-polyfill)
+* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
+* [socket.io](http://socket.io/)
+* [SockJS](https://github.com/sockjs/sockjs-client)
 * [webcomponents.js](https://github.com/WebComponents/webcomponentsjs)
 * [webshim](https://afarkas.github.io/webshim/demos/)
-* [HTML5 Cross Browser Polyfills](https://github.com/Modernizr/Modernizr/wiki/HTML5-Cross-browser-Polyfills)
-* [console-polyfill](https://github.com/paulmillr/console-polyfill)
-* [socket.io](http://socket.io/)
-* [sockjs](https://github.com/sockjs/sockjs-client)
 
-##### Browser hosted testing/automation:
+##### Browser Hosted Testing/Automation:
 
-* [browserstack](https://www.browserstack.com) [$]
-* [browserling](https://www.browserling.com/) [$]
-* [Sauce labs](https://saucelabs.com/) [$]
-* [Selenium](http://www.seleniumhq.org/)
+* [Browserling](https://www.browserling.com/) [$]
+* [BrowserStack](https://www.browserstack.com) [$]
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
+* [Sauce Labs](https://saucelabs.com/) [$]
+* [Selenium](http://www.seleniumhq.org/)
 
-##### Headless browsers:
+##### Headless Browsers:
 
 * [PhantomJS](http://phantomjs.org/)
 * [slimerjs](http://slimerjs.org/)
 * [TrifleJS](http://triflejs.org/)
 
-##### Headless browser automation:
+##### Headless Browser Automation:
 
-* [nightwatchjs](http://nightwatchjs.org/)
-* [casperJS](http://casperjs.org/)
+Used for functional testing and monkey testing.
+
+* [CasperJS](http://casperjs.org/)
+* [gremlins.js](https://github.com/marmelab/gremlins.js)
 * [Nightmare](https://github.com/segmentio/nightmare)
+* [NightwatchJS](http://nightwatchjs.org/)
 
-##### Browser hacks:
+##### Browser Hacks:
 
 * [browserhacks.com](http://browserhacks.com/)
 

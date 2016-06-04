@@ -1,13 +1,12 @@
-# Front-end interviews
+# Front-End Interviews
 
 Questions you may get asked:
 
-* [Front-end Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
-* [Interview Questions for front-end-Developer](http://thatjsdude.com/interview/index.html)
-* [10 Interview Questions
-Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
-*[Front End Quiz](http://davidshariff.com/quiz/)
-*[Javascript Quiz](http://davidshariff.com/js-quiz/)
+* [10 Interview Questions Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+* [Front-End Job Interview Questions](http://h5bp.github.io/Front-end-Developer-Interview-Questions/)
+* [Front End Web Development Quiz](http://davidshariff.com/quiz/)
+* [Interview Questions for Front-End-Developer](http://thatjsdude.com/interview/index.html)
+* [JavaScript Web Quiz](http://davidshariff.com/js-quiz/)
 
 Questions you ask:
 

@@ -1,9 +1,9 @@
-# Offline tools
+# Offline Tools
 
+* [Hoodie](http://hood.ie/)
+* [Offline.js](http://github.hubspot.com/offline/docs/welcome/)
+* [PouchDB](http://pouchdb.com/)
 * [upup](https://www.talater.com/upup/)
-* [offline.js](http://github.hubspot.com/offline/docs/welcome/)
-* [pouchdb](http://pouchdb.com/)
-* [hood.ie](http://hood.ie/)
 
 
 

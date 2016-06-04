@@ -1,8 +1,8 @@
-# Site/app monitoring tools
+# Site/App Monitoring Tools
 
 ##### Uptime:
 
-* [pingdom](https://www.pingdom.com/) [free to $]
+* [Pingdom](https://www.pingdom.com/) [free to $]
 * [Uptime Robot](https://uptimerobot.com/)
 * [Uptrends](https://www.uptrends.com/) [$]
 

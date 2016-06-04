@@ -1,24 +1,24 @@
-# Font tools 
+# Font Tools 
 
-##### Free web fonts:
+##### Free Web Fonts:
 
+* [fonts.com](http://www.fonts.com/) [free to $]
 * [Google Fonts](http://fortawesome.github.io/Font-Awesome/)
 * [TypeKit](https://typekit.com) [free to $]
-* [fonts.com](http://www.fonts.com/) [free to $]
 
-##### Icon fonts:
+##### Icon Fonts:
 
+* [Devicons](http://vorillaz.github.io/devicons/#/main)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-* [ionicons](http://ionicons.com/)
 * [Fontello](http://fontello.com/)
 * [GitHub Octicons](https://octicons.github.com/)
-* [Devicons](http://vorillaz.github.io/devicons/#/main)
+* [ionicons](http://ionicons.com/)
 
-##### JS font tools:
+##### JS Font Tools:
 
 * [FlowType.js](http://simplefocus.com/flowtype/)
-* [webfontloader](https://github.com/typekit/webfontloader)
 * [localFont](https://github.com/jaicab/localFont)
+* [Web Font Loader](https://github.com/typekit/webfontloader)
 
 
 

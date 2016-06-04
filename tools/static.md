@@ -1,19 +1,19 @@
-# Static site generators tools
+# Static Site Generators Tools
 
-##### JS site generators:
+##### JS Site Generators:
 
+* [Harp](http://harpjs.com/)
 * [Metalsmith](http://www.metalsmith.io/)
-* [harp](http://harpjs.com/)
 
-##### JS blog site generators:
+##### JS Blog Site Generators:
 
-* [hubpress.io](http://hubpress.io/)
-* [Hexo.io](https://hexo.io/)
+* [Hexo](https://hexo.io/)
+* [HubPress](http://hubpress.io/)
 
-##### Site generator listings:
+##### Site Generator Listings:
 
+* [staticgen.com](https://www.staticgen.com/)
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
-* [www.staticgen.com](https://www.staticgen.com/)
 
 
 

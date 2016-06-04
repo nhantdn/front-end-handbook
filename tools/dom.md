@@ -1,26 +1,26 @@
 # DOM Tools
 
-##### DOM libraries/frameworks:
+##### DOM Libraries/Frameworks:
 
-* [jQuery](http://jquery.com/)
-* [Zepto.js](http://zeptojs.com/)
-* [keypress](http://dmauro.github.io/Keypress/)
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
-* [tether.io](http://tether.io/docs/welcome/)
+* [jQuery](http://jquery.com/)
+* [Keypress](http://dmauro.github.io/Keypress/)
+* [Tether](http://tether.io/docs/welcome/)
+* [Zepto](http://zeptojs.com/)
 
-##### DOM performance tools:
+##### DOM Performance Tools:
 
-* [DOMMonster](http://mir.aculo.us/dom-monster/)
+* [DOM Monster](http://mir.aculo.us/dom-monster/)
 
 ##### References:
 
+* [Events](https://html.spec.whatwg.org/#events-2)
 * [DOM Browser Support](http://www.webbrowsercompatibility.com/dom/desktop/)
 * [DOM Events Browser Support](http://www.webbrowsercompatibility.com/dom-events/desktop/)
 * [HTML Interfaces Browser Support](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
-* [Events](https://html.spec.whatwg.org/#events-2)
 * [MDN Document Object Model (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 
-##### DOM polyfills/shims:
+##### DOM Polyfills/Shims:
 
 * [dom-shims](https://github.com/necolas/dom-shims)
 * [Pointer Events Polyfill: a unified event system for the web platform](https://github.com/jquery/PEP)

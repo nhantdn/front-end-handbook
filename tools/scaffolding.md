@@ -1,9 +1,9 @@
-# Scaffolding tools
+# Scaffolding Tools
 
 Client side Scaffolding is concerned with generating a starter template for the application as a whole, rather than [generating code to access a database](https://en.wikipedia.org/wiki/Scaffold_%28programming%29). 
 
-* [Yeoman](http://yeoman.io/)
 * [Slush](http://slushjs.github.io/#/)
+* [Yeoman](http://yeoman.io/)
 
 
 

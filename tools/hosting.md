@@ -1,53 +1,9 @@
-# Web/cloud/static hosting tools
+# Web/Cloud/Static Hosting Tools
 
 * [AWS](https://aws.amazon.com/websites/) [$]
-* [Heroku](heroku.com) [free to $]
-* [DigitalOcean](digitalocean.com) [$]
+* [DigitalOcean](https://digitalocean.com) [$]
+* [DIVSHOT](https://divshot.com) [free to $]
+* [Heroku](https://heroku.com) [free to $]
 * [Modulus](https://modulus.io/) [$]
-* [DIVSHOT](divshot.com) [free to $]
 * [netlify](https://www.netlify.com) [free to $]
-* [surge](https://surge.sh/) [free to $]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* [Surge](https://surge.sh/) [free to $]

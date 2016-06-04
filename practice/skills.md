@@ -1,38 +1,38 @@
-# Front-end dev skills
+# Front-End Dev Skills
 
 ![](../images/front-end-skills.png "http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html")
 
-<cite>image source: <a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
+<cite>Image source: <a href="http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html">http://blog.naustud.io/2015/06/baseline-for-modern-front-end-developers.html</a></cite>
 
 Basic to advanced HTML, CSS, DOM, JavaScript, HTTP/URL, and browser skills are assumed for any type of front-end developer. 
 
-Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-end developer could be skilled in one of the following:
+Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-end developer could be skilled in one or more of the following:
 
-* Content management systems (aka CMS)
+* Content Management Systems (aka CMS)
 * Node.js
-* Cross-browser testing
-* Cross-platform testing
+* Cross-Browser Testing
+* Cross-Platform Testing
 * Unit Testing
-* Cross-device testing
+* Cross-Device Testing
 * Accessibility / WAI-ARIA
 * Search Engine Optimization (aka SEO)
-* Interaction or User Interface design
+* Interaction or User Interface Design
 * User Experience
 * Usability
 * E-commerce Systems
 * Portal Systems
 * Wireframing
-* CSS layout / Grids
-* DOM manipulation (e.g. jQuery)
+* CSS Layout / Grids
+* DOM Manipulation (e.g., jQuery)
 * Mobile Web Performance
 * Load Testing
 * Performance Testing
 * Progressive Enhancement / Graceful Degradation
-* Version Control (e.g. GIT)
+* Version Control (e.g., GIT)
 * MVC / MVVM / MV* 
 * Functional Programming
-* Data Formats (e.g. JSON, XML)
-* Data API's (e.g Restful API)
+* Data Formats (e.g., JSON, XML)
+* Data APIs (e.g Restful API)
 * Web Font Embedding
 * Scalable Vector Graphics (aka SVG)
 * Regular Expressions
@@ -40,7 +40,7 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-en
 * Microdata / Microformats
 * Task Runners, Build Tools, Process Automation Tools
 * Responsive Web Design
-* Object Oriented Programming
+* Object-Oriented Programming
 * Application Architecture
 * Modules
 * Dependency Managers
@@ -48,7 +48,7 @@ Beyond HTML, CSS, DOM, JavaScript, HTTP/URL, and browser development, a front-en
 * JavaScript Animation
 * CSS Animation
 * Charts / Graphs
-* UI widgets
+* UI Widgets
 * Code Quality Testing
 * Code Coverage Testing
 * Code Complexity Analysis
